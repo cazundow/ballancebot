@@ -17,3 +17,8 @@ BallanceBot is a two-wheeled balancing robot designed as a learning platform for
 - 1 × MPU6050 (IMU sensor)
 - 1 × ESP32 microcontroller
 - Power supply and wiring
+
+pcb
+![Schemaic](pcb/Schematic.png)
+![front](pcb/pcb-front.png)
+![front](pcb/pcb-back.png)
